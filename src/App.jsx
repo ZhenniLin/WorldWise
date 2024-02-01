@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes, Navigate } from "react-router-dom";
 
 import Pricing from "./pages/Pricing";
 import Homepage from "./pages/Homepage";
-import Product from "./pages/product";
+import Product from "./pages/Product";
 import AppLayout from "./pages/AppLayout";
 import PageNotFound from "./pages/PageNotFound";
 import Login from "./pages/Login";
