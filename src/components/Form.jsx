@@ -114,7 +114,7 @@ function Form() {
 
         <DatePicker
           id="date"
-          onChange={(date) => setDate(data)}
+          onChange={(date) => setDate(date)}
           selected={date}
           dateFormat="dd/MM/yyyy"
         />
